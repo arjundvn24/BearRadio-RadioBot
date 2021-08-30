@@ -36,4 +36,4 @@ client.on("ready", () => {
         let status = client.player.setQueueRepeatMode(message, true);
 });
 });
-client.login('ODcyODA1Njk2MjUxNTE0ODkw.YQvNpQ.24cLC7YRcLTZ6EPdHjGnGOETiB8');
+client.login('YourDiscordBotToken');
