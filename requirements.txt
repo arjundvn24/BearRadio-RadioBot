@@ -1,0 +1,7 @@
+1- Node v14 or up
+2- discordjs/opus@0.5.3
+3- discord-music-player@7.2.0
+4- discord.js@12.5.3
+5- node-bin-setup@1.0.6 extraneous
+6- node@16.6.1
+7- opusscript@0.0.8
